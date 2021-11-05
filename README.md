@@ -4,6 +4,6 @@ hi world
 <!doctype html>
 <html>
   <head>
-    <title>JOSHUA ERIC Q. BADANA</title>
+    <h1>JOSHUA ERIC Q. BADANA</h1>
   </head>
 </html>
